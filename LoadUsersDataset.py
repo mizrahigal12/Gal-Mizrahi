@@ -3,7 +3,7 @@ import numpy as np
 import requests
 import os
 import Base
-from Base import connection
+
 
 # settings
 source_url = "https://randomuser.me/api/?results=4500"
